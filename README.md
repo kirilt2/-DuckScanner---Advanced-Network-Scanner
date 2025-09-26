@@ -3,9 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
-[![Author](https://img.shields.io/badge/Author-Kirill%20Tikhomirov-purple.svg)](https://github.com/kirilltikhomirov)
-
-**Created by: Kirill Tikhomirov**
 
 A comprehensive network scanning tool with a modern GUI interface, designed for security professionals, network administrators, and penetration testers.
 
@@ -58,7 +55,11 @@ A comprehensive network scanning tool with a modern GUI interface, designed for 
    cd DuckScanner
    ```
 
-2. **Run the application**
+2. **Install Dependencies**
+  ``` bash
+  pip install -r requirements.txt
+  ```
+3. **Run the application**
    ```bash
    python DuckScanner.py
    ```
@@ -238,12 +239,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Security Community** for inspiration and feedback
 - **Open Source** contributors who make tools like this possible
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/kirilltikhomirov/DuckScanner/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/kirilltikhomirov/DuckScanner/discussions)
-- **Author**: Kirill Tikhomirov
-
 ## 🔮 Roadmap
 
 ### Planned Features
@@ -259,13 +254,36 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Cloud scanning** capabilities
 
 ### Version History
-- **v2.0** - Complete GUI rewrite with modern interface by Kirill Tikhomirov
+- **v2.0** - Complete GUI rewrite with modern interface
 - **v1.0** - Initial command-line version
 
 ---
 
 **Happy Scanning! 🦆**
 
-*DuckScanner - Making network security accessible and efficient*  
-*Created with ❤️ by Kirill Tikhomirov*#   D u c k S c a n n e r   -   A d v a n c e d   N e t w o r k   S c a n n e r  
- 
+*DuckScanner - Making network security accessible and efficient*
+
+
+**License**
+
+MIT License
+
+Copyright (c) 2025 Kirill Tikhomirov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
