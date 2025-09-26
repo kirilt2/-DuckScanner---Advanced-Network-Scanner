@@ -281,7 +281,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-© 2024 Kirill Tikhomirov  
+© 2025 Kirill Tikhomirov  
+
 
 
 
