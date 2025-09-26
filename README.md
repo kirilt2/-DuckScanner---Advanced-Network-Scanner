@@ -61,7 +61,7 @@ A comprehensive network scanning tool with a modern GUI interface, designed for 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/DuckScanner.git
+   git clone https://github.com/kirilt2/-DuckScanner---Advanced-Network-Scanner.git
    cd DuckScanner
    ```
 
@@ -297,5 +297,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
