@@ -1,0 +1,36 @@
+# DuckScanner Requirements
+# This scanner uses only Python standard library modules
+# No external dependencies required for basic functionality!
+
+# Standard library modules used:
+# - tkinter (GUI framework)
+# - socket (network connections)
+# - threading (concurrent scanning)
+# - subprocess (ping operations)
+# - argparse (command line arguments)
+# - json (data serialization)
+# - csv (CSV export)
+# - time (timing operations)
+# - datetime (timestamps)
+# - concurrent.futures (thread pool management)
+# - platform (OS detection)
+# - ipaddress (IP network handling)
+# - os (file operations)
+# - sys (system operations)
+
+# Optional: For enhanced functionality, you could add:
+# scapy>=2.4.5              # For advanced packet crafting and SYN scanning
+# python-nmap>=0.7.1        # For nmap integration
+# colorama>=0.4.4           # For colored terminal output
+# psutil>=5.8.0             # For system monitoring
+# requests>=2.25.1          # For HTTP banner grabbing
+# cryptography>=3.4.8       # For SSL/TLS analysis
+# pillow>=8.2.0             # For image processing in reports
+# matplotlib>=3.3.4         # For scan result visualization
+# pandas>=1.3.0             # For data analysis and reporting
+
+# Development dependencies (optional):
+# pytest>=6.2.4            # For testing
+# black>=21.5b2             # For code formatting
+# flake8>=3.9.2             # For linting
+# mypy>=0.910               # For type checking
