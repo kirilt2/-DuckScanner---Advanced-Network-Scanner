@@ -41,6 +41,35 @@ A comprehensive network scanning tool with a modern GUI interface, designed for 
 - **Color-coded results** for easy interpretation
 - **Responsive design** with scrollable results
 
+
+## 🖼️ Screenshots
+
+### Main Interface
+![DuckScanner Main Interface](https://cdn.discordapp.com/attachments/1134142081250627684/1421077071865712662/image.png?ex=68d7b8a8&is=68d66728&hm=6f8df4b82263802e941ce5ec718e8c14bcd374551bc07d1fe8e053b7294794d8&)
+*Modern dark-themed interface with professional design*
+
+### Port Scanner Tab
+![Port Scanner Tab]([screenshots/port-scanner.png](https://cdn.discordapp.com/attachments/1134142081250627684/1421077109018857623/image.png?ex=68d7b8b1&is=68d66731&hm=fff9d30343720c5a5268208442aa6855182c10a73fe040626e49cb5dd00a75eb&))
+*Comprehensive port scanning with real-time results*
+
+### Network Discovery Tab
+![Network Discovery Tab](https://cdn.discordapp.com/attachments/1134142081250627684/1421077109018857623/image.png?ex=68d7b8b1&is=68d66731&hm=fff9d30343720c5a5268208442aa6855182c10a73fe040626e49cb5dd00a75eb&)
+*Network range scanning and host discovery*
+
+### History
+![Scan Results](https://cdn.discordapp.com/attachments/1134142081250627684/1421077147573026836/image.png?ex=68d7b8ba&is=68d6673a&hm=2be26c131d7238f1c0fd5c1945e8619c424057e5554c23c76672551898487949&)
+*Color-coded results with service detection*
+
+### Settings & About
+![Settings Tab](https://cdn.discordapp.com/attachments/1134142081250627684/1421077183769870376/image.png?ex=68d7b8c2&is=68d66742&hm=ccdc3499ea127e67ecd9d04361ed96d10cbf2835332f36f541b0d403377c474b&)
+*Configuration options and creator information*
+
+### Settings & About
+![Settings Tab](https://cdn.discordapp.com/attachments/1134142081250627684/1421077236781678593/image.png?ex=68d7b8cf&is=68d6674f&hm=f9dbe55c0dbcf34b5326ce480e4df1ad976bbb56d300b813509ed4066c991ae0&)
+*Configuration options and creator information*
+
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -287,3 +316,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
