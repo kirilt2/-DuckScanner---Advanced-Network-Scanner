@@ -423,7 +423,7 @@ Features:
 • Professional-grade security tools
 
 Developed with Python & Tkinter
-© 2024 Kirill Tikhomirov
+© 2025 Kirill Tikhomirov
         """
         
         tk.Label(about_frame, text=about_text, font=('Arial', 10), 
